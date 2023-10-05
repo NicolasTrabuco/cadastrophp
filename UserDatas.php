@@ -7,8 +7,8 @@ $method = new SignupUser();
 
 class UserDatas extends SignupUser{
 
-    public function encryptUser(){
-        
+    public function encryptData(){
+        //Criptografar o cpf e a senha
     }
 
 }
